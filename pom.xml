@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ada.tech</groupId>
-	<artifactId>quero-ser-dev</artifactId>
+	<artifactId>quero-ser-dev1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>quero-ser-dev</name>
 	<description>Demo project for Spring Boot</description>
